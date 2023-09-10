@@ -1,0 +1,17 @@
+Ans 2. Purpose of using comments is to add explanations or notes to the code.
+
+       Example: <!--This is an example-->
+
+
+
+
+Ans 4. HTML tags are keywords that have a unique meaning to the browser. They start with < and ends with >. 
+
+       HTML elements are contained inside the tags and they carry the content.
+
+       Ex: <p>Lorem ipsum</p> , here <p> is the opening tag and </p> is the closing tag. Lorem ipsum is the element in the tag.
+
+
+
+
+Ans 5. <!DOCTYPE> is information to the browser about what document type to expect. They are not case sensitive and do not require a closing tag.
