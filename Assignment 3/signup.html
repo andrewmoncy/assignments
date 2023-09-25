@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <style>
+        body{
+            background: linear-gradient(90deg, rgb(58, 58, 216), rgb(216, 99, 99));
+        }
+    </style>
+</head>
+<body>
+    <form action="">
+    <div>
+        <label for="fname">First Name:</label>
+        <input type="text" id="fname" placeholder="Alpha" required>
+    </div>
+    <br>
+    <div>
+        <label for="lname">Last Name:</label>
+        <input type="text" id="lname" placeholder="Omega" required>
+    </div>
+    <br>
+    <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" placeholder="email@gmail.com" required>
+    </div>
+    <br>
+    <div>
+        <label for="pass">Password:</label>
+        <input type="password" id="pass" placeholder="" required>
+    </div>
+    <br>
+    <div>
+        <label for="pass">Confirm Password:</label>
+        <input type="password" id="pass" placeholder="*******" required>
+    </div>
+    <br>
+    <div>
+        <label for="age">Age:</label>
+        <input type="number" id="age" max="150" min="0" required>
+    </div>
+    <br>
+    <div>
+        <label for="gender">Gender:</label>
+        <select name="gender" id="gender">
+            <option value="gender">M</option>
+            <option value="gender">F</option>
+        </select>
+    </div>
+    <br>
+    <div>
+        <label for="checker">Agree to Terms and Conditions</label>
+        <input type="checkbox" id="checker" name="checker" required>
+    </div>
+    <br>
+    <button>Sign Up</button>
+</form>
+</body>
+</html>
