@@ -1,0 +1,3 @@
+Meta tags are a type of HTML tag that provides search engines with information about a website page.
+Meta descriptions can help with improving your page ranking with search engines. It's a part of what is also known as Search Engine Optimization (or SEO).
+A good meta description is a concise but compelling summary of the content of your page.
