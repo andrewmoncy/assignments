@@ -1,0 +1,8 @@
+Web accessibility is the need for websites to utilize tools and technologies developed to aid the perception, understanding, contribution, navigation, and interaction of a person with disabilities on the site. This is important because people with disabilities should be able to enjoy the same access to information as those without. Luckily, there are technologies available to reduce or remove the barriers to their digital access. The provision of these benefits ensures that everyone, regardless of age, physical or mental capabilities, can use the internet and have good web experience.
+
+Some of the examples are:
+
+1. Adding alternative text (alt text) for images.
+2. Ensure keyboard functionality like scrolling and navigation without a mouse.
+3. Provide transcripts for audio.
+

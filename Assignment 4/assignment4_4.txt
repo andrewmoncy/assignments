@@ -1,0 +1,7 @@
+These are the following ways to improve accessibility of Websites:
+
+1. Add Captions and Transcripts to Videos - If you include videos on your website, you’ll want to provide captions or transcripts so that users who are deaf or hard of hearing can still enjoy the content. Closed captioning and text transcripts let those using screen readers consume your content without having to rely on the visual imagery or audio alone.
+
+2. Use Heading Hierarchies to Structure and Organize Content - Clear headings can help screen readers understand and interpret your pages. This also assists in-page navigation and helps those using assistive technologies browse the contents of your page.
+
+3. Provide Alt Text for Images - If you use images on your website, be sure to provide alternative text (alt text) that describes the image. This way, users who are unable to see the image will still be able to understand the content of the page when using assistive technologies such as dictation software.

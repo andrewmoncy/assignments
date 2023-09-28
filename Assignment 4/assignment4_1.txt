@@ -1,0 +1,21 @@
+HTML5 is the 5th version of HTML. These are some of the features:
+
+1. Audio and Video tags- These are the two major addition to HTML5. It allows developers to embed a video or audio on their website.
+
+2. Vector Graphics - Vector graphics are scalable, easy to create and edit. It also supports interactivity and animation.
+
+3. Header and Footer tags - With these new tags, there is no longer a need to identify the two elements with a <div> tag. Footer is placed at the end of the web page while Header is placed at       the start of the web page. By using <header> and <footer> HTML5 elements, the browser will know what to load first and what to load later.
+
+4. Figure and Figcaption -  HTML5 allows to use a <figure> element to mark up a photo in a document, and a <figcaption> element to define a caption for the photo. The <figcaption> tag defines a caption for a <figure> element. This tag provides a container for content that is equivalent to a figure. It can be used to group a caption with one or more images, a block of code, or other content.
+
+5. Nav tags - The <nav> tag defines a set of navigation links. It is used for the part of an internet site that links to different pages at the website. 
+
+6. Progress tag - The progress tag is used to check the progress of a task during the execution. Progress tag can be used with the conjunction of JavaScript.
+
+7. Email attribute - When the input type in the form set as email, then the browser gets the instruction from the code to write a valid format email. The input email id is automatically validated to check the format of the email id.
+
+8. Storage - In the case of HTML, we can use the browser as the temporary storage whereas, in the case of HTML5, application cache, web SQL database, and web storage is used.
+
+9. Main tag - This tag defines the important content of the <body> of a document.
+
+10. Canvas tag - The canvas tag in HTML5 helps users draw graphics or images on the fly using JavaScript. We can use it for drawing paths, boxes, circles, adding images, etc. The canvas tag has two attributes: width and height for setting the width and height of the canvas.

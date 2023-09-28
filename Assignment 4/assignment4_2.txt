@@ -1,0 +1,7 @@
+Entities are used to display reserved characters in HTML. Few examples are :-
+
+1. © Copyright symbol is denoted as &copy;
+2. < less than is denoted as &lt;
+3. & is denoted as &amp;
+4. " is denoted as &quot;
+5. ' is denoted as &apos;
