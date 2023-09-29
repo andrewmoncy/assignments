@@ -1,0 +1,30 @@
+#box1{
+    border: 5px solid;
+    width: 700px;
+    height: 150px;
+    font-size: 17px;
+    background: rgb(95, 190, 221);
+    margin-right: auto;
+    margin-left: auto;
+}
+body{
+    background-color: rgb(230, 231, 219);
+}
+.p1__about{
+    color: rgb(24, 5, 5);
+    font-family:cursive;
+}
+.p1__description{
+    color: rgb(219, 96, 102);
+    text-decoration: underline;
+}
+.p1__method{
+    background: linear-gradient(rgb(233, 229, 193), rgb(137, 167, 177));
+}
+.p1__info{
+    color: rgb(39, 12, 190);
+}
+.p1__info--modifier{
+    color: rgb(124, 10, 29);
+    text-decoration:line-through;
+}

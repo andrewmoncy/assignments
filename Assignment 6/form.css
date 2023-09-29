@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(224, 204, 165);
+}
+.title{
+    background-color: rgb(134, 134, 223);
+}
+.pay{
+    background-color: rgb(193, 143, 240);
+}
+.submit:hover{
+    opacity: 0.5;
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+    <body>
+        <div>
+        <form action="action_page.php" method="POST">
+            <div class="title">
+                <label for="title">Title: </label>
+
+                <label for="Mr.">Mr.</label>
+                <input type="radio" id="Mr." value="title" name="title">
+
+                <label for="Mrs.">Mrs.</label>
+                <input type="radio" id="Mrs." value="title" name="title">
+
+                <label for="Dr.">Dr.</label>
+                <input type="radio" id="Dr." value="title" name="title">
+
+            </div>
+            <br>
+            <label for="fname">First Name:</label>
+            <input type="text" id="fname" name="fname" placeholder="Super" required>
+        
+        </div>
+        <br>
+        <div>
+            
+                <label for="lname">Last Name:</label>
+                <input type="text" id="lname" name="lname" placeholder="Man" required>
+            
+        </div>
+        <br>
+        <div>
+            
+            <label for="pass">Password:</label>
+            <input type="password" id="pass" name="pass" maxlength="12" required>
+        
+    </div>
+    <br>
+    <div>
+            
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="SuperMan@gmail.com" required>
+    
+</div>
+<br>
+    <div>
+            
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone" required>
+    
+</div>
+<br>
+        <div class="pay">
+            <label for="payment">Payment: </label>
+            <select id="payment" name="payment">
+                <option value="VISA">VISA</option>
+                <option value="MasterCard">MasterCard</option>
+                <option value="Rupay">Rupay</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="card">Card No.: </label>
+            <input type="tel" id="card" name="card">
+        </div>
+            <br>
+            <div class="submit">
+            <input type="submit">
+        </div>
+        <div class="reset">
+            <input type="reset">
+        </div>
+        <br>
+    <div>
+        <label for="bdate">DOB:</label>
+        <input type="date" id="bdate" name="bdate" required>
+</div>
+<br>
+    <div>
+        <label for="qnty">Quantity:</label>
+        <input type="number" id="qnty" name="qnty" min="0" max="100" value="1">
+</div>
+<br>
+<div>
+    <label for="checker">I am not a robot</label>
+    <input type="checkbox" id="checker" name="checker">
+</div>
+<br>
+<button style="background-color: blue; color: blanchedalmond;">Confirm</button>
+
+    </form>
+    </body>
+</html>
+</body>
+</html>
