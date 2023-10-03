@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    display: flex;
+    background-color: rgb(97, 153, 226);
+}
+ul li{
+    list-style: none;
+    margin-left: 100px;
+    margin-top: 12px;
+    font-size: 18px
+}
+ul li a{
+    color: rgba(255, 255, 255, 0.705);
+}
+ul li a:hover{
+    color: rgb(139, 56, 17);
+}
