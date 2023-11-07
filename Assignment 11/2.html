@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .pic{
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .pic img{
+            width: 30%;
+            margin: 10px;
+        }
+         @media (max-width: 800px){
+    .pic img {
+        display:flex;
+        width: 45%;
+    }
+}
+        @media (max-width: 500px){
+    .pic img {
+        display:flex;
+        width: 100%;
+    }
+}
+    </style>
+</head>
+<body>
+    <div class="pic">
+        <img src="https://fastly.picsum.photos/id/932/200/300.jpg?hmac=OPuowRV-58KJtDQbeEri4K8Am_UBqq9o0OFtn3S1ZYk" alt="" />
+        <img src="https://fastly.picsum.photos/id/932/200/300.jpg?hmac=OPuowRV-58KJtDQbeEri4K8Am_UBqq9o0OFtn3S1ZYk" alt="" />
+        <img src="https://fastly.picsum.photos/id/932/200/300.jpg?hmac=OPuowRV-58KJtDQbeEri4K8Am_UBqq9o0OFtn3S1ZYk" alt="" />
+    </div>
+</body>
+</html>
