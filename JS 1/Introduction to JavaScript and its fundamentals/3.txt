@@ -1,0 +1,9 @@
+Primitive data types are predefined data types provided by JavaScript language are known. Primitive data types are also known as in-built data types.
+
+5 types of primitive data types are:
+
+1. Number: This data type in javascript can be used to hold decimal values as well as values without decimals.
+2. String: The string data type in javascript represents a sequence of characters that are surrounded by single or double quotes.
+3. Boolean: The boolean data type can accept only two values, true and false.
+4. Null: This data type can hold only one possible value that is null.
+5. Undefined: The meaning of undefined is ‘value is not assigned’.

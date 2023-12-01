@@ -1,0 +1,15 @@
+Operations in JavaScript involve one or more operands and an operator. And operators can be categorized based on the number of operands they require.
+
+Unary operators require one operand for operation. Providing two or more can result in a syntax error.
+
+Ex:   typeof = "hi" returns string (here typeof is the operator and "hi" is the operand)
+
+
+Binary operators require two operand for operation. Providing more than two or less than two can result in a syntax error.
+
+Ex:   10 > 20 (here 10 and 20 are the two operands, it returns true or false)
+
+
+Ternary operators require three operands. In JavaScript the conditional operator acts as the ternary operator.
+
+Ex:   const voterid= age>=18 ? "Eligible" : "Not Eligible" ( here age>=18 is one operand while the other two are true and false conditions)

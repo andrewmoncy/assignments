@@ -1,0 +1,1 @@
+Javascript is a scripting language used to provide functionality to web pages. It is used for developing dynamic web pages, updating content, control multimedia, animate images, etc.

@@ -1,0 +1,4 @@
+HTML is a markup language that provides structure to a web page like creating paragraphs, table, content and their placement etc.
+
+
+JavaScript provides functionality to a web page. JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.

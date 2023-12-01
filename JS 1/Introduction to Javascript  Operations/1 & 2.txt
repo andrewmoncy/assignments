@@ -1,0 +1,12 @@
+Operators are used in Javascript for performing operations on operands, for example arithmetic, comparisons, logical operations etc. They are essential to building logic and functionality in JavaScript.
+
+let sum= 10+30 ; here + is an arithmetic operation while = is an assignment operator which assign value to an object
+
+These are following types of operators in JavaScript.
+
+Arithmetic Operators (+,- etc)
+Comparison Operators (==,===,!= etc)
+Bitwise Operators(&,| etc)
+Logical Operators(&&,!,||)
+Assignment Operators(=,+=,-=)
+Special Operators(?:)

@@ -1,0 +1,4 @@
+Variables are defined in JS as a method to initialize a value with a number or as a method of input. The keyword 'let' is used to assign a value to a variable or initialize a variable which can later be changed.
+
+Ex. let value = 5;
+here value is assigned a value of 5, it can also be used to input string, boolen etc.

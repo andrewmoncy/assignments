@@ -1,0 +1,10 @@
+Comments are a way of improving readabilty and quality of a code. Since they are non executable they can be used to insert information regarding code during programming so that it becomes easier to debug and rectify errors in code at a later stage.
+
+Example of single line and multi line comments are:
+
+//This is a single line comment
+
+/*
+This is a multiline comment
+that can span as many lines.
+*/
